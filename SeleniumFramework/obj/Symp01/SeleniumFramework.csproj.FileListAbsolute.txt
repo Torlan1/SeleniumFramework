@@ -1,0 +1,17 @@
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\NUnit3.TestAdapter.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\nunit.engine.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\nunit.engine.api.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\Mono.Cecil.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\Mono.Cecil.Pdb.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\Mono.Cecil.Mdb.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\Mono.Cecil.Rocks.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\SeleniumFramework.dll.config
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\SeleniumFramework.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\nunit.framework.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\WebDriver.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\WebDriver.Support.dll
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\nunit.framework.xml
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\WebDriver.xml
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\bin\Symp01\WebDriver.Support.xml
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\obj\Symp01\SeleniumFramework.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Documents\SeleniumFramework\SeleniumFramework\obj\Symp01\SeleniumFramework.dll
